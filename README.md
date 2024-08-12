@@ -1,5 +1,5 @@
 ---
-title: Spam Detector
+title: Spam Guard
 emoji: 🦀
 colorFrom: gray
 colorTo: blue
@@ -11,7 +11,7 @@ pinned: false
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-# Spam Detection Project
+# Spam Guard - a Spam Detection Project
 
 Welcome to the Spam Detection project! This document provides a comprehensive guide to building a robust spam detection model using the DistilBERT model. This project covers the entire pipeline, from data collection and preprocessing to model building, training, evaluation, and the creation of an interactive Gradio interface for users to classify messages as spam or not.
 
