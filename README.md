@@ -209,8 +209,3 @@ The code follows a structured flow, starting with loading the model and tokenize
 This project leverages the capabilities of the DistilBERT model from Hugging Face, combined with the user-friendly Gradio library for creating an interactive interface.
 
 For more information or inquiries, please feel free to reach out to the project author, Ravindra Mohith, at ravindramohith@gmail.com.
-
----
-
-Customize and enhance this README with additional details, examples, and references to make it a comprehensive guide to your Spam Detection project.
-
